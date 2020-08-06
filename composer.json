@@ -1,0 +1,22 @@
+{
+  "name": "assou/assou-user-bundle",
+  "description": "description",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "version": "0.0.1",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "assou",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Assou\\AssouUserBundle\\": "src"
+    }
+  },
+  "require": {
+    
+  }
+}
