@@ -1,5 +1,5 @@
 {
-  "name": "assou/assou-user-bundle",
+  "name": "Assoumani/assou-user-bundle",
   "description": "description",
   "minimum-stability": "dev",
   "license": "proprietary",
@@ -13,7 +13,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Assou\\AssouUserBundle\\": "src"
+      "Assoumani\\AssouUserBundle\\": "src"
     }
   },
   "require": {
